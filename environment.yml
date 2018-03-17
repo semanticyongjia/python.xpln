@@ -1,0 +1,5 @@
+name: python.xpln
+dependencies:
+- python=3
+- jupyter
+- matplotlib
